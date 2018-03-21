@@ -1,0 +1,370 @@
+{
+    "errorDialog": {
+        "unauthenticated": {
+            "title": "Datawords Datawords ",
+            "content": "Datawords Datawords Datawords Datawords Datawords Datawords "
+        },
+        "unavailable": {
+            "title": "Datawords ",
+            "content": "Datawords Datawords Datawords Datawords Datawords Datawords "
+        },
+        "unauthorized": {
+            "title": "Datawords ",
+            "content": "Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords "
+        }
+    },
+    "replenishmentRequest": {
+        "footer": {
+            "addAndProceed": "Datawords ",
+            "lastRequest": "Datawords ",
+            "exportXls": "Datawords ",
+            "pleaseAddRequests": "Datawords Datawords Datawords ",
+            "importXls": "Datawords ",
+            "resetQuanity": "Datawords ",
+            "totalCount": "Datawords Datawords Datawords "
+        },
+        "lastUpdateMessage": "Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords ",
+        "subtitle": "Datawords Datawords ",
+        "filters": {
+            "addRmc": "Datawords ",
+            "removeFilters": "Datawords ",
+            "categoryFilters": {
+                "all": "Datawords ",
+                "baselworld": "Datawords ",
+                "professionalSteel": "Datawords "
+            },
+            "columnFilters": {
+                "inProgress": "Datawords ",
+                "30d": "Datawords ",
+                "12m": "Datawords ",
+                "m": "Datawords ",
+                "deliveriesYtd": "Datawords ",
+                "basicStock": "Datawords ",
+                "m+1": "Datawords ",
+                "suggested": "Datawords ",
+                "requested": "Datawords ",
+                "later": "Datawords ",
+                "m+2": "Datawords ",
+                "stock": "Datawords ",
+                "allocated": "Datawords "
+            },
+            "hideFilters": "Datawords ",
+            "searchMessage": "Datawords Datawords Datawords Datawords ",
+            "showFilters": "Datawords "
+        },
+        "title": "Datawords Datawords ",
+        "modals": {
+            "changeRetailer": {
+                "question": "Datawords ",
+                "text": "Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords ",
+                "title": "Datawords ",
+                "introduction": "Datawords Datawords ",
+                "confirmButtonText": "Datawords ",
+                "cancelButtonText": "Datawords "
+            },
+            "resetQuantity": {
+                "question": "Datawords ",
+                "title": "Datawords Datawords ",
+                "content": "Datawords Datawords Datawords Datawords Datawords ",
+                "confirmButtonText": "Datawords ",
+                "cancelButtonText": "Datawords "
+            },
+            "csvErrorLinesNotification": {
+                "buttonText": "Datawords ",
+                "label": "Datawords Datawords ",
+                "title": "Datawords "
+            },
+            "csvDialogConfirmation": {
+                "buttonCancelText": "Datawords ",
+                "buttonOverwriteText": "Datawords ",
+                "buttonIncrementText": "Datawords ",
+                "text": "Datawords Datawords Datawords Datawords <br />Datawords Datawords Datawords Datawords Datawords ",
+                "title": "Datawords Datawords "
+            },
+            "csvSuccessNotification": {
+                "buttonText": "Datawords ",
+                "text": "Datawords Datawords Datawords Datawords Datawords ",
+                "title": "Datawords "
+            },
+            "csvErrorNotification": {
+                "buttonText": "Datawords ",
+                "title": "Datawords ",
+                "emptyFile": "Datawords "
+            },
+            "csvErrorRmcsNotification": {
+                "buttonText": "Datawords ",
+                "text": "Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords ",
+                "label": "Datawords ",
+                "title": "Datawords "
+            },
+            "notice": {
+                "buttonText": "Datawords ",
+                "stampFirst": "Datawords ",
+                "text": "Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords ",
+                "title": "Datawords ",
+                "stampSecond": "Datawords ",
+                "stampThird": "Datawords ",
+                "stampFourth": "Datawords "
+            }
+        },
+        "filtersHeaderLabel": "Datawords ",
+        "dashboard": {
+            "sold": {
+                "options": {
+                    "30d": "Datawords ",
+                    "12m": "Datawords "
+                },
+                "title": "Datawords "
+            },
+            "hideDashboard": "Datawords ",
+            "suggested": {"title": "Datawords "},
+            "requested": {"title": "Datawords "},
+            "inProgress": {
+                "options": {
+                    "all": "Datawords ",
+                    "later": "Datawords ",
+                    "m1": "Datawords ",
+                    "m2": "Datawords ",
+                    "m": "Datawords ",
+                    "laterplusm2": "Datawords "
+                },
+                "title": "Datawords "
+            },
+            "showDashboard": "Datawords ",
+            "lastUpdate": "Datawords ",
+            "daysAgoBy": "Datawords ",
+            "on": "Datawords "
+        },
+        "tableHeader": {
+            "soldLast": "Datawords ",
+            "quantity": "Datawords ",
+            "inProgress": "Datawords Datawords ",
+            "30d": "Datawords ",
+            "rmc": "Datawords ",
+            "12m": "Datawords ",
+            "m": "Datawords ",
+            "deliveriesYtd": "Datawords ",
+            "reference": "Datawords ",
+            "basicStock": "Datawords ",
+            "m+1": "Datawords ",
+            "suggested": "Datawords ",
+            "requested": "Datawords ",
+            "later": "Datawords ",
+            "diameter": "Datawords ",
+            "braceletReference": "Datawords ",
+            "m+2": "Datawords ",
+            "comment": "Datawords ",
+            "stock": "Datawords ",
+            "dial": "Datawords ",
+            "allocated": "Datawords "
+        }
+    },
+    "applicationTitle": "Datawords Datawords ",
+    "cookiesBar": {
+        "linkTitle": "Datawords ",
+        "usingCookies": "Datawords Datawords Datawords Datawords ",
+        "agreeConfirmation": "Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords "
+    },
+    "catalog": {"title": "Datawords "},
+    "menu": {
+        "replenishmentRequest": "Datawords Datawords ",
+        "catalog": "Datawords ",
+        "searchReferenceOrRmc": "Datawords Datawords ",
+        "cookies": "Datawords ",
+        "catalogV2": "Datawords ",
+        "logout": "Datawords ",
+        "enterReferenceOrRmc": "Datawords Datawords ",
+        "legal": "Datawords ",
+        "replenishmentRequestsRolex": "Datawords Datawords Datawords ",
+        "replenishmentRequestHistory": "Datawords ",
+        "affiliateContacts": "Datawords Datawords ",
+        "myDashboard": "Datawords ",
+        "results": "Datawords ",
+        "replenishmentRequestsTudor": "Datawords Datawords Datawords "
+    },
+    "replenishmentRequestSummary": {
+        "footerItems": {
+            "confirm": "Datawords ",
+            "print": "Datawords ",
+            "resend": "Datawords ",
+            "back": "Datawords ",
+            "timePieces": "Datawords ",
+            "export": "Datawords "
+        },
+        "headerMessage1": "Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords ",
+        "pdfHeader": {
+            "date": "Datawords ",
+            "requestedBy": "Datawords ",
+            "requestId": "Datawords ",
+            "retailerName": "Datawords ",
+            "customerId": "Datawords "
+        },
+        "affiliateMessage": {
+            "messageReadMode": "Datawords Datawords ",
+            "placeholder": "Datawords ",
+            "message": "Datawords Datawords Datawords Datawords Datawords "
+        },
+        "resendConfirmation": {
+            "buttonText": "Datawords ",
+            "text": "Datawords Datawords Datawords Datawords Datawords Datawords ",
+            "title": "Datawords "
+        },
+        "headerMessage2": "Datawords Datawords Datawords Datawords Datawords Datawords Datawords ",
+        "confirmation": {
+            "thankYou": "Datawords ",
+            "continue": "Datawords Datawords Datawords ",
+            "text": "Datawords Datawords Datawords Datawords "
+        },
+        "title": "Datawords Datawords ",
+        "tableHeader": {
+            "reference": "Datawords ",
+            "unitPrice": "Datawords ",
+            "total": "Datawords ",
+            "quantity": "Datawords ",
+            "diameter": "Datawords ",
+            "braceletReference": "Datawords ",
+            "rmc": "Datawords ",
+            "comment": "Datawords ",
+            "dial": "Datawords "
+        },
+        "typeDialog": {
+            "buttonNewRequestText": "Datawords ",
+            "text": "Datawords Datawords Datawords <br />Datawords <br />Datawords Datawords Datawords ",
+            "title": "Datawords Datawords ",
+            "buttonComplementText": "Datawords "
+        },
+        "offCatalogRequests": {
+            "reference": "Datawords ",
+            "itemType": "Datawords ",
+            "addMessageReadMode": "Datawords Datawords ",
+            "qty": "Datawords ",
+            "description": "Datawords ",
+            "addMessage": "Datawords Datawords "
+        },
+        "subtitle": "Datawords Datawords ",
+        "affiliate": {
+            "buttonText": "Datawords ",
+            "text": "Datawords Datawords ",
+            "title": "Datawords "
+        }
+    },
+    "cookies": {
+        "secondParagraph": "Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords ",
+        "firstParagraph": "Datawords Datawords Datawords Datawords Datawords Datawords Datawords ",
+        "secondTitle": "Datawords Datawords Datawords ",
+        "thirdParagraph": "Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords ",
+        "thirdTitle": "Datawords ",
+        "title": "Datawords "
+    },
+    "catalogFilter": {
+        "all": "Datawords ",
+        "new": "Datawords ",
+        "closeButtonText": "Datawords ",
+        "removeFilters": "Datawords ",
+        "filtersRowTitle": "Datawords ",
+        "resetButtonText": "Datawords ",
+        "allFamilies": {
+            "all": "Datawords ",
+            "families": "Datawords "
+        },
+        "requestReplenishmentButton": "Datawords Datawords ",
+        "filterButtonText": "Datawords "
+    },
+    "navigation": {
+        "logout": "Datawords Datawords ",
+        "cookiePolicy": "Datawords ",
+        "back": "Datawords ",
+        "legalInformation": "Datawords "
+    },
+    "grid": {"modals": {
+        "leaveConfirmation": {
+            "confirm": "Datawords ",
+            "cancel": "Datawords ",
+            "title": "Datawords ",
+            "content": "Datawords Datawords Datawords Datawords "
+        },
+        "updatedRequest": {
+            "buttonDone": "Datawords ",
+            "buttonReplenishmentRequest": "Datawords Datawords ",
+            "title": "Datawords ",
+            "content": "Datawords Datawords Datawords Datawords Datawords "
+        }
+    }},
+    "legal": {
+        "secondParagraph": "Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords <br />Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords <br />Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords ",
+        "firstTitle": "Datawords ",
+        "firstParagraph": "Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords ",
+        "address": "Datawords Datawords <br />Datawords Datawords <br />Datawords ",
+        "sixthParagraph": "Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords ",
+        "thirdParagraph": "Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords ",
+        "eighthTitle": "Datawords Datawords Datawords ",
+        "seventhTitle": "Datawords ",
+        "fifthTitle": "Datawords Datawords ",
+        "organisation": "Datawords ",
+        "fifthParagraph": "Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords ",
+        "title": "Datawords ",
+        "ninthTitle": "Datawords ",
+        "eighthParagraph": "Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords <br />Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords ",
+        "secondTitle": "Datawords Datawords ",
+        "fourthParagraph": "Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords ",
+        "thirdTitle": "Datawords ",
+        "sixthTitle": "Datawords ",
+        "fourthTitle": "Datawords ",
+        "seventhParagraph": "Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords <br />Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords ",
+        "ninthParagraph": "Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords Datawords "
+    },
+    "replenishmentRequestHistory": {
+        "subtitle": "Datawords Datawords ",
+        "title": "Datawords Datawords ",
+        "list": {
+            "quantity": "Datawords ",
+            "requestId": "Datawords ",
+            "noResults": "Datawords ",
+            "requestDate": "Datawords ",
+            "please": "Datawords Datawords ",
+            "requestBy": "Datawords ",
+            "newSearch": "Datawords ",
+            "type": "Datawords ",
+            "viewLink": "Datawords Datawords ",
+            "requestStatus": "Datawords "
+        }
+    },
+    "majesty": {
+        "inclVat": "Datawords Datawords ",
+        "discMessage": "Datawords Datawords Datawords Datawords Datawords ",
+        "attributes": {
+            "braceletMaterialShort": "Datawords ",
+            "more": "Datawords ",
+            "calibre": "Datawords ",
+            "bezel": "Datawords ",
+            "presentationBooklets": "Datawords Datawords ",
+            "waterResistance": "Datawords ",
+            "reference": "Datawords ",
+            "powerReserve": "Datawords ",
+            "caseMaterial": "Datawords ",
+            "braceletMaterial": "Datawords ",
+            "diameter": "Datawords ",
+            "braceletReference": "Datawords ",
+            "braceletReferenceShort": "Datawords ",
+            "presentationBox": "Datawords ",
+            "discLanguage": "Datawords ",
+            "dial": "Datawords "
+        },
+        "requestReplenishmentButton": "Datawords Datawords ",
+        "priceDescription": "Datawords Datawords ",
+        "attributesTitles": {
+            "model": "Datawords ",
+            "bracelet": "Datawords ",
+            "movement": "Datawords ",
+            "dial": "Datawords ",
+            "salesAccessories": "Datawords "
+        }
+    },
+    "dashboard": {
+        "browseTheFamily": "Datawords ",
+        "subtitleSuffix": "Datawords ",
+        "title": "Datawords Datawords ",
+        "introduction": "Datawords ",
+        "subtitlePrefix": "Datawords "
+    }
+}
